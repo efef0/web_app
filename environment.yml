@@ -1,0 +1,7 @@
+name: streamlit_env
+channels:
+  - defaults
+dependencies:
+  - openpyxl=3.1.5=py39h827c3e9_1
+  - streamlit=1.16.0=py37haa95532_0
+prefix: C:\anaconda3\envs\streamlit_env
